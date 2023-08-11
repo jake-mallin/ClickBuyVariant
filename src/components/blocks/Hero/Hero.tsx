@@ -2,7 +2,7 @@ const Hero = () => (
   <section className="root relative overflow-hidden bg-[#121740] pt-16 sm:pt-20">
     <div className="container max-w-[1600px] mx-auto">
       <div className="heroUnit sm:min-h-[460px] sm:flex sm:justify-between sm:items-center">
-        <div className="heroMessage px-4 md:px-8 pt-6 pb-12 md:pt-12 md:pb-12 w-full max-w-[600px]">
+        <div className="heroMessage px-4 md:px-8 pt-6 pb-12 md:pt-12 md:pb-12 w-full max-w-[600px] bg-[#121740] rounded-b-[32px]">
           <h2 className="text-white text-center sm:text-left text-4xl leading-relaxed md:text-5xl lg:text-7xl font-bold mb-6">Looking to sell your car?</h2>
           <p className="text-[#C7E5F2] text-center sm:text-left text-l md:text-2xl lg:text-4xl">Get an up-to-the-minute valuation of your vehicle today</p>
         </div>

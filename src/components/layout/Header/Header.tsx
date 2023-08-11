@@ -10,13 +10,18 @@ const Header = () => (
           <div className="headerLogo mr-auto">
             <NextLink href="/"><Image src="/logo.svg" alt="Click Buy Motors" width="228" height="48" /></NextLink>
           </div>
-          <nav className="navContainer ml-auto flex gap-8">
+          <nav className="navContainer ml-auto gap-8 hidden sm:flex">
             <NextLink href="/" className="text-white hover:underline underline-offset-3">Home</NextLink>
             <NextLink href="/sell-my-car" className="text-white hover:underline underline-offset-3">Sell my car</NextLink>
             <NextLink href="/how-it-works" className="text-white hover:underline underline-offset-3">How it works</NextLink>
             <NextLink href="/faq" className="text-white hover:underline underline-offset-3">FAQ</NextLink>
             <NextLink href="/contact" className="text-white hover:underline underline-offset-3">Contact</NextLink>
           </nav>
+          <div className="menuIcon sm:hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.333 32" className="w-auto h-8">
+              <path id="bars-solid" d="M0,66.667A2.664,2.664,0,0,1,2.667,64h32a2.667,2.667,0,1,1,0,5.333h-32A2.664,2.664,0,0,1,0,66.667ZM0,80a2.664,2.664,0,0,1,2.667-2.667h32a2.667,2.667,0,1,1,0,5.333h-32A2.664,2.664,0,0,1,0,80ZM37.333,93.333A2.664,2.664,0,0,1,34.667,96h-32a2.667,2.667,0,1,1,0-5.333h32A2.664,2.664,0,0,1,37.333,93.333Z" transform="translate(0 -64)" fill="#fff"/>
+            </svg>
+          </div>
         </div>
       </div>
     </div>
