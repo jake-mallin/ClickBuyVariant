@@ -5,7 +5,7 @@ const ContactForm = () => (
         <input type="text" placeholder="Name" className="w-full p-3 rounded-lg border-[#D1D1D1] border-[1px] shadow-inner"></input>
         <input type="text" placeholder="Contact Number" className="w-full p-3 rounded-lg border-[#D1D1D1] border-[1px] shadow-inner"></input>
         <input type="text" placeholder="Email Address" className="w-full p-3 rounded-lg border-[#D1D1D1] border-[1px] shadow-inner"></input>
-        <textarea rows="5" placeholder="Your Message" className="w-full p-3 rounded-lg border-[#D1D1D1] border-[1px] shadow-inner"></textarea>
+        <textarea rows={5} placeholder="Your Message" className="w-full p-3 rounded-lg border-[#D1D1D1] border-[1px] shadow-inner"></textarea>
         <label className="text-[#868686]">What is 3 + 4?</label>
         <input type="submit" value="Start your quote" className="btn" />
       </form>
