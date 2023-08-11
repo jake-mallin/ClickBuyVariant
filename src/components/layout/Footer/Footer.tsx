@@ -1,5 +1,5 @@
 import { OpeningHours } from '@/components/blocks/OpeningHours';
-import { Image, ImageProps } from '../../utility-components/Image';
+import { Image } from '../../utility-components/Image';
 
 const Footer = () => (
   <footer className="root bg-[#121740] text-white py-12 md:py-20">
