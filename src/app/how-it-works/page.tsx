@@ -28,8 +28,8 @@ export default function SellMyCar() {
                     <path d="M171.278,0C76.888,0,0,76.888,0,171.278S76.888,342.555,171.278,342.555s171.278-76.888,171.278-171.278S265.668,0,171.278,0Zm78.216,267.478c0,4.587-2.655,7.242-7.242,7.242H100.3c-4.587,0-7.242-2.655-7.242-7.242V237.3c0-4.587,2.655-7.242,7.242-7.242h11.829V202.54H103.2c-4.587,0-7.242-2.655-7.242-7.242V169.226c0-4.587,2.655-7.242,7.242-7.242h8.932v-29.21c0-44.66,33.555-64.938,65.18-64.938s65.18,20.278,65.18,64.938v7.242c0,4.587-2.655,7.242-7.242,7.242H203.385c-4.587,0-7.242-2.655-7.242-7.242v-7.242c0-12.432-7.846-19.675-18.83-19.675s-18.83,7.242-18.83,19.675v29.21h43.212c4.587,0,7.242,2.655,7.242,7.242V195.3c0,4.587-2.655,7.242-7.242,7.242H158.483v27.52h83.768c4.587,0,7.242,2.655,7.242,7.242v30.176Z" />
                   </svg>
                 </i>
-                <h1 className="text-white font-bold text-3xl md:text-5xl mb-6">How does it work?</h1>
-                <p className="text-[#93E25A] text-xl md:text-[26px]">Our simple 3 step process makes everything seamless</p>
+                <h1 className="relative text-white font-bold text-3xl md:text-5xl mb-6">How does it work?</h1>
+                <p className="relative text-[#93E25A] text-xl md:text-[26px]">Our simple 3 step process makes everything seamless</p>
               </div>
             </div>
 

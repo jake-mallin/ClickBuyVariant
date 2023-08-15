@@ -31,8 +31,8 @@ export default function SellMyCar() {
                     </g>
                   </svg>
                 </i>
-                <h1 className="text-white font-bold text-3xl md:text-5xl mb-6">Frequently Asked Questions</h1>
-                <p className="text-[#93E25A] text-xl md:text-[26px]">Some of the most common questions that we get asked</p>
+                <h1 className="relative text-white font-bold text-3xl md:text-5xl mb-6">Frequently Asked Questions</h1>
+                <p className="relative text-[#93E25A] text-xl md:text-[26px]">Some of the most common questions that we get asked</p>
               </div>
             </div>
 
