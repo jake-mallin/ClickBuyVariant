@@ -4,7 +4,7 @@ const Carousel = () => (
       <div className="container max-w-[1600px] mx-auto">
         <h3 className="heading text-center text-white text-4xl">Rated 4.9 on Google</h3>
         <div className="subheading text-center text-[#121740] text-2xl mb-12">Join the hundreds of customers who have used the Click Car Buy Service</div>
-        <div className="promoCard flex overflow-x-scroll sm:overflow-auto sm:grid md:grid-cols-3 lg:grid-cols-4 gap-10">
+        <div className="promoCard flex overflow-x-scroll sm:overflow-auto sm:grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
           <div className="promoCard__item grow-0 shrink-0 basis-[calc(100vw-32px)]">
             <div className="reviewCard bg-white shadow-lg rounded-2xl p-8">
               <em className="block font-bold text-[#121740] not-italic mb-2">A Stress-Free Car Buying Experience!</em>

@@ -1,7 +1,7 @@
 import { Image } from '@/components/utility-components/Image';
 
 const ContentImageSteps = () => (
-  <div>
+  <div className="">
     <section className="root relative flex flex-col sm:flex-row items-center bg-white">
       <div className="aboutText w-full md:w-7/12 p-8 sm:p-12 md:order-1">
         <h2 className="text-[#121740] text-2xl md:text-3xl mb-6 font-bold flex items-center">

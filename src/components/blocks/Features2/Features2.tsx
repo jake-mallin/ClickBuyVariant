@@ -2,7 +2,7 @@ const Features2 = () => (
   <section className="root bg-white">
     <div className="wrapper md:px-8">
       <div className="container max-w-[1600px] mx-auto bg-[#F5F5F5] rounded-[48px]">
-        <div className="promoBlock block sm:grid sm:grid-cols-4 sm:gap-12 p-8 sm:p-12 md:p-16 lg:p-20">
+        <div className="promoBlock block sm:grid sm:grid-cols-2 lg:grid-cols-4 sm:gap-12 p-8 sm:p-12 md:p-16 lg:p-20">
           <div className="promoBlock__item relative mb-6 sm:mb-0">
             <div className="promoBlock__icon flex items-start justify-start h-[44px] mb-8">
               <svg fill="#93e25a" xmlns="http://www.w3.org/2000/svg" width="51.806" height="44" viewBox="0 0 51.806 44">

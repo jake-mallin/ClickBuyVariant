@@ -12,13 +12,25 @@ export default function SellMyCar() {
 
       {/* <PageHeader /> */}
 
-      <section className="root bg-[#121740] pt-16 sm:pt-20">
+      <section className="root bg-[#121740]">
 
         <div className="wrapper px-4 md:px-8">
           <div className="container max-w-[1600px] mx-auto">
             
-            <div className="pageHeader min-h-[240px] md:min-h-[360px] lg:min-h-[420px] flex flex-col items-center justify-between gap-10 sm:flex-row">
+            <div className="pageHeader relative min-h-[240px] md:min-h-[360px] lg:min-h-[420px] flex flex-col items-center justify-between gap-10 sm:flex-row pt-16 pb-8 sm:pt-20 sm:pb-4 overflow-hidden">
               <div className="pageHeaderMessage max-w-[800px] px-4 md:px-8 pt-6 pb-12 md:pt-12 md:pb-12">
+                <i className="pageHeaderIcon absolute right-[50%] sm:right-[6vw] top-[50%] translate-y-[-50%] z-0">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="648.717" height="258.214" viewBox="0 0 648.717 258.214">
+                    <g transform="translate(0 -152.107)">
+                      <circle cx="62.309" cy="62.309" r="62.309" transform="translate(15 218.905)" fill="none" stroke="#1f2865" stroke-miterlimit="10" stroke-width="30"/>
+                      <circle cx="62.309" cy="62.309" r="62.309" transform="translate(210.25 218.905)" fill="none" stroke="#1f2865" stroke-miterlimit="10" stroke-width="30"/>
+                      <circle cx="114.107" cy="114.107" r="114.107" transform="translate(405.503 167.107)" fill="none" stroke="#1f2865" stroke-miterlimit="10" stroke-width="30"/>
+                      <path d="M368.667,255.651l38.054,35.027,56.144-60.225" transform="translate(100.316 17.968)" fill="none" stroke="#1f2865" stroke-miterlimit="10" stroke-width="30"/>
+                      <line x2="70.634" transform="translate(139.617 281.214)" fill="none" stroke="#1f2865" stroke-miterlimit="10" stroke-width="30"/>
+                      <line x2="70.633" transform="translate(334.869 281.214)" fill="none" stroke="#1f2865" stroke-miterlimit="10" stroke-width="30"/>
+                    </g>
+                  </svg>
+                </i>
                 <h1 className="text-white font-bold text-3xl md:text-5xl mb-6">Frequently Asked Questions</h1>
                 <p className="text-[#93E25A] text-xl md:text-[26px]">Some of the most common questions that we get asked</p>
               </div>

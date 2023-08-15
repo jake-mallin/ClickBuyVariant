@@ -31,7 +31,7 @@ const Accordion = () => (
             <summary className="accordionHeading relative flex justify-between items-center pr-8 list-none font-bold before:absolute before:right-0 before:rotate-90 before:bg-[#93E25A] before:w-5 before:h-1 before:rounded after:absolute after:right-0 after:w-5 after:h-1 after:bg-[#93E25A] after:rounded before:transition">What documents do I need to bring when selling my car?</summary>
             <div className="accordionContent pt-4">
               <p>When you come to our dealership to sell your car, please bring the following documents with you:</p>
-              <ul className="list-disc">
+              <ul className="list-disc pl-2 my-1">
                 <li>A valid photo ID (driver&apos;s license or passport)</li>
                 <li>The vehicle&apos;s title or loan payoff information, if applicable</li>
                 <li>Any service records or maintenance history you may have</li>

@@ -5,7 +5,7 @@ const Footer = () => (
   <footer className="root bg-[#121740] text-white py-12 md:py-20">
     <div className="wrapper px-4 md:px-8">
       <div className="container max-w-[1600px] mx-auto">
-        <div className="footerContainer flex flex-col gap-8 sm:flex-row sm:justify-between sm:gap-10">
+        <div className="footerContainer flex flex-col gap-8 md:flex-row justify-center items-center md:justify-between md:gap-10">
           <div className="footerWidget footerWidget--contact max-w-[500px] sm:grow-0 sm:shrink-1 sm:basis-auto">
             <div className="footerHeading mb-4 text-2xl md:text-3xl">Head Office</div>
             <div className="footerAddress">
