@@ -20,7 +20,7 @@ const Features2 = () => (
             <div className="text-[#121740] font-bold text-xl mb-2">Up-to-the-minute valuations</div>
             <p className="text-[#646F77] text-l">We have tools at our disposal that make sure we are offering you the best price possible for your vehicle.</p>
           </div>
-          <div className="promoBlock__item relative">
+          <div className="promoBlock__item relative mb-6 sm:mb-0">
             <div className="promoBlock__icon flex items-start justify-start h-[44px] mb-8">
               <svg fill="#93e25a" xmlns="http://www.w3.org/2000/svg" width="56.261" height="44" viewBox="0 0 56.261 44">
                 <g transform="translate(0 -53.064)">
@@ -31,7 +31,7 @@ const Features2 = () => (
             <div className="text-[#121740] font-bold text-xl mb-2">Lock in a price with us</div>
             <p className="text-[#646F77] text-l">Once you&apos;re happy with a price for your vehicle you can lock that in. This means we won&apos;t adjust the valuation at a later date like some other companies.</p>
           </div>
-          <div className="promoBlock__item relative">
+          <div className="promoBlock__item relative mb-6 sm:mb-0">
             <div className="promoBlock__icon flex items-start justify-start h-[44px] mb-8">
               <svg fill="#93e25a" xmlns="http://www.w3.org/2000/svg" width="40.311" height="44" viewBox="0 0 40.311 44">
                 <g transform="translate(-20.374)">
@@ -42,7 +42,7 @@ const Features2 = () => (
             <div className="text-[#121740] font-bold text-xl mb-2">Home collection available</div>
             <p className="text-[#646F77] text-l">We offer a collection service throughout the United Kingdom. So don&apos;t worry if you feel that you can&apos;t use us as you&apos;re miles away from our home office.</p>
           </div>
-          <div className="promoBlock__item relative">
+          <div className="promoBlock__item relative mb-6 sm:mb-0">
             <div className="promoBlock__icon flex items-start justify-start h-[44px] mb-8">
               <svg fill="#93e25a" xmlns="http://www.w3.org/2000/svg" width="43.086" height="44" viewBox="0 0 43.086 44">
                 <path d="M47.65,24.567l-.827-1.133a2.715,2.715,0,0,1-.027-3.156l.809-1.142a2.707,2.707,0,0,0-.935-3.947l-1.232-.665a2.712,2.712,0,0,1-1.394-2.832l.234-1.385a2.7,2.7,0,0,0-2.554-3.147l-1.4-.063A2.7,2.7,0,0,1,37.84,5.144L37.453,3.8a2.7,2.7,0,0,0-3.669-1.726L32.5,2.626a2.7,2.7,0,0,1-3.084-.683L28.479.9a2.707,2.707,0,0,0-4.055.027l-.917,1.061a2.709,2.709,0,0,1-3.066.728l-1.295-.531A2.706,2.706,0,0,0,15.5,3.975l-.369,1.349a2.664,2.664,0,0,1-2.437,2L11.3,7.4a2.7,2.7,0,0,0-2.5,3.183l.252,1.376A2.7,2.7,0,0,1,7.7,14.811l-1.223.683A2.7,2.7,0,0,0,5.6,19.45l.827,1.133a2.715,2.715,0,0,1,.027,3.156l-.809,1.142a2.707,2.707,0,0,0,.935,3.947l1.232.665a2.712,2.712,0,0,1,1.394,2.832L8.967,33.7A2.7,2.7,0,0,0,11.52,36.85l1.4.063A2.7,2.7,0,0,1,15.4,38.864l.387,1.349a2.7,2.7,0,0,0,3.669,1.726l1.286-.558a2.71,2.71,0,0,1,3.084.674l.935,1.043a2.707,2.707,0,0,0,4.055-.027l.917-1.061a2.709,2.709,0,0,1,3.066-.728l1.295.531a2.706,2.706,0,0,0,3.642-1.789l.369-1.349a2.719,2.719,0,0,1,2.455-1.987l1.4-.081a2.7,2.7,0,0,0,2.5-3.183l-.252-1.376a2.7,2.7,0,0,1,1.349-2.85l1.223-.683A2.7,2.7,0,0,0,47.65,24.567ZM26.627,36.211a14.2,14.2,0,1,1,14.2-14.2A14.2,14.2,0,0,1,26.627,36.211Z" transform="translate(-5.082 0)" />
